@@ -1,0 +1,6 @@
+spacy>=3.7
+streamlit>=1.50
+transformers>=4.40
+torch
+pandas
+openpyxl

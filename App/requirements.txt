@@ -1,0 +1,5 @@
+streamlit>=1.40
+spacy>=3.7
+# optional, only if BACKEND = "bert"
+# transformers
+# torch

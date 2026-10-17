@@ -1,0 +1,31 @@
+sample_id,entity,type
+P2,Jordan Paris,PERSON
+P2,Goldman Sachs,ORG
+P2,Infosys,ORG
+P2,Lyon,LOC
+P2,Europe,LOC
+P2,Nandan Rao,PERSON
+P3,Washington,LOC
+P3,Beijing,LOC
+P3,US,LOC
+P3,Linda Washington,PERSON
+P3,Geneva,LOC
+P3,World Trade Organization,ORG
+P4,Apple,ORG
+P4,Bengaluru,LOC
+P4,Karnataka,LOC
+P4,Priya Nair,PERSON
+P6,Victoria Clarke,PERSON
+P6,Victoria Police,ORG
+P6,Melbourne,LOC
+P6,St. Kilda,LOC
+P10,Amazon,ORG
+P10,Hyderabad,LOC
+P10,Neha Kapoor,PERSON
+P10,Greenpeace,ORG
+P10,Amazon,LOC
+P13,Acme Robotics Inc.,ORG
+P13,Martin Cole Jr.,PERSON
+P13,Mt. Abu,LOC
+P13,St. Petersburg,LOC
+P13,Siemens AG,ORG
